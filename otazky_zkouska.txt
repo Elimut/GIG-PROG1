@@ -1,0 +1,16 @@
+Psal jsem Dvorskymu ohledně těch otázek, toto je odpověď:
+Dobrý den, tak pokud možno celé třídě vyřiďte asi toto:
+1. Obecná orientace – procesor, paměť, program, zdrojový kód, interpretovaný jazyk, kompilovaný jazyk atd. Jde o obsah předmětu ZINFO.
+
+2. Pojem algoritmus – neformální definice, vlastnosti
+
+3. Procedurální programování v Pythonu – příkazy větvení (if), cykly, funkce, parametry funkcí, volání funkcí atd.
+
+4. Datové struktury v Pythonu – seznamy, n-tice (to co jste používali v projektech při vytváření seznamů slov)
+
+5. Objektově orientované programování v Pythonu – co je to třída, objekt, metody, atributy
+
+
+Nebude se zkoušet programování na papír, ale měli byste umět napsat třeba cyklus od 1 do 5 včetně. Nebo popsat že tento if vypíše A pokud nějaká proměnná x obsahuje sudé číslo, v opačném případě vypíše B.
+
+JD

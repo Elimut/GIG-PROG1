@@ -1,0 +1,2 @@
+nejmensi hodnota delitelna cislem 453 je: 1359
+nejvetsi hodnota delitelna cislem 453 je: 9966

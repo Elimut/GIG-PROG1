@@ -1,0 +1,11 @@
+ Napište program, který vypíše část řetězce před prvním výskytempísmene „m“.
+
+text="Jak jsi na tom, co dnes podniknem?"
+	if "m" in text:
+		print( text[:text.index("m")] )
+	else:
+		print (text)
+
+ Napište fukci, která bere jako první argument seznam celých číselxsajako druhý jedno celé čísloy. Výstupem funkce je seznamysobsahující tačísla zxs, která jsou větší ney
+.Ukázka:
+f([1,2,3,1,2,1,2,4,6,2], 3) => [4,6

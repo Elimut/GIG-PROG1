@@ -1,0 +1,11 @@
+file = open("Data1.txt", "r")
+lines = file.readlines()
+file.close()
+string = ""
+for line in lines:
+    if line.find(string)==-1:
+        string += "\n"
+    else:
+        string += line
+print(string)
+        
